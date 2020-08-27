@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "conversor-de-longitud": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "conversor-de-longitud"
+    }
+  },
+  "defaultProject": "conversor-de-longitud",
+  "cli": {
+    "analytics": "0125c7cb-08a6-4f81-9f74-b2202a19d65e"
+  }
 }
